@@ -1,4 +1,4 @@
-# philiure-MLProject2021-FakeNewsRecognition-
+# Fake News Recognition Model
 This project contains a deep learning model that classifies fake and real news - see jupyter notebook
 
 All pre-cleaned datasets and pre-trained models are in zip folders. 
